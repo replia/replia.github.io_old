@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Replia</title>
+    <description>Applicaiton Replia</description>
+    <link>http://replia.io/</link>
+    <atom:link href="http://replia.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 20 Apr 2015 23:56:48 +0900</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2015 23:56:48 +0900</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Site Open!</title>
+        <description>&lt;p&gt;Good day! This blog introduces the news of Mac application ‘Replia’.
+Developmental techniques of iOS and Mac will be introduced as well.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 24 Sep 2014 21:00:00 +0900</pubDate>
+        <link>http://replia.io/2014/09/24/site-open/</link>
+        <guid isPermaLink="true">http://replia.io/2014/09/24/site-open/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

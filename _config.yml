@@ -1,0 +1,18 @@
+# Site settings
+title: Replia
+header-img: img/home-bg.jpg
+email: k.hirobe+replia@gmail.com
+description: "Applicaiton Replia"
+baseurl: ""
+url: "http://replia.io"
+#twitter_username: hirobe
+github_username:  replia
+facebook_username:  replia.io
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+paginate_path: "blog/page:num"
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
